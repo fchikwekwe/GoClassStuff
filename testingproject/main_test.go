@@ -19,7 +19,7 @@ func TestTableCalculate(t *testing.T) {
 		{-1, 1},
 		{0, 2},
 		{-5, -3},
-		{99999, 1000001},
+		{99999, 100001},
 	}
 
 	for _, test := range tests {
