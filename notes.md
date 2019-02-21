@@ -1,0 +1,2 @@
+- Read about asynchronicity vs concurrency
+- Channels allow goroutines to communicate with each other 
